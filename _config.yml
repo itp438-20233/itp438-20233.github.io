@@ -1,0 +1,43 @@
+title: "ITP 438"
+remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
+color_scheme: nil
+search_enabled: false
+
+aux_links:
+  "Google Drive":
+    - "https://drive.google.com/drive/folders/1--W2QL9GMyJUnwbgcPUX20SVJoydcuKB?usp=sharing"
+  "Piazza":
+    - "https://piazza.com/class/ll8or2ivtgf7a2"
+  "GitHub":
+    - "https://github.com/itp438-20233"
+  "Gradescope":
+    - "https://www.gradescope.com/courses/570451"
+  "Blackboard":
+    - "https://blackboard.usc.edu/webapps/blackboard/execute/launcher?type=Course&id=_323458_1&url="
+
+aux_links_new_tab: true
+
+callouts:
+  note:
+    title: NOTE
+    color: blue
+  warn:
+    title: WARNING
+    color: yellow
+  danger:
+    title: DANGER
+    color: red
+  test:
+    title: TEST IT!
+    color: green
+
+# Collections for website data
+collections:
+  schedules:
+# Default layouts for each collection type
+defaults:
+  - scope:
+      path: ''
+      type: schedules
+    values:
+      layout: schedule
