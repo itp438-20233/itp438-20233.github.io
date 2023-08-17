@@ -25,7 +25,7 @@ Complete [Assignment Setup](00.html)
 
 ### Wednesday
 
-***Flipped Classroom***:<br/>[Using Perforce](https://youtu.be/pB96CuTsJHs) (21:17)<br/>[(Optional) Using Perforce Offline](https://www.youtube.com/watch?v=IT91B_4Xejc) (7:22)<br/>[Navigating Code in Visual Studio](https://youtu.be/YteaoiB66ew) (5:46)<br/>[Debugging in Visual Studio](https://www.youtube.com/watch?v=lvOnHyxr_xo) (13:00)<br/>
+***Flipped Classroom***:<br/>[Using Perforce](https://youtu.be/vXFahMeKx4s) (11:24)<br/>[Navigating Code in Visual Studio](https://youtu.be/YteaoiB66ew) (5:46)<br/>[Debugging in Visual Studio](https://www.youtube.com/watch?v=lvOnHyxr_xo) (13:00)<br/>[(Optional) Using Perforce Offline](https://www.youtube.com/watch?v=IT91B_4Xejc) (7:22)<br/>
 Start [Assignment 1: Unreal Basics](01.html)
 
 ### Upcoming Dates
