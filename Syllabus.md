@@ -40,7 +40,7 @@ ITP 380
 
 There are two exams in the course:
 
-* Midterm Exam (in-class programming exam) on 10/3 during your regular class period
+* Midterm Exam (in-class programming exam) on 10/4 during your regular class period
 * Final Exam (take home) with the date/time depending on your section ([schedule](Schedule.html#final-exam-schedule))
 
 ## Description and Assessment of Assignments 
