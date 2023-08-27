@@ -42,7 +42,15 @@ Start [Assignment 1: Unreal Basics](01.html)
 
 ### Wednesday
 
-***Flipped Classroom***: [Live Coding - Blueprints](https://www.youtube.com/watch?v=dQfpbnChFwk) (39:07)<br/>
+***Flipped Classroom***: [Live Coding - Blueprints](https://www.youtube.com/watch?v=dQfpbnChFwk) (39:07)<br/>**Corrections**:
+
+* The player blueprint is now called `BP_TopDownCharacter`
+* The player material is now in Content>Characters>Mannequins>M_Mannequin
+* The body color parameter is now called `Tint`
+* The original color is now `(1, 1, 1)`
+* In code, set the `DefaultColor` to `FLinearColor::White`
+* In code, set `BodyColorParameter` to `FName(TEXT("Tint"))`
+
 Start [Assignment 2: Puzzles](02.html)<br/>Assignment 1 is **DUE** at 11:59PM
 
 ### Upcoming Dates
