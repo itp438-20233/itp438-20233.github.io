@@ -18,9 +18,6 @@ There are quite a few office hours during the week, but there also are a lot of 
 
 ## Schedule
 
-{:.note}
-This schedule will be filled out once all TA/professor office hours are finalized.
-
 {% for schedule in site.schedules %}
 {{ schedule }}
 {% endfor %}

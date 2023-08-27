@@ -33,10 +33,21 @@ schedule:
         who: Sanjay
         start: 4:30 PM
         end: 6:30 PM
-        location: TBD
+        location: <a href="images/RRB-Entrance.png">RRB 212</a>
   - name: Tuesday
+    events:
+      - name: Office Hours
+        who: Sid
+        start: 12:00 PM
+        end: 2:30 PM
+        location: RTH 3rd floor
   - name: Wednesday
     events:
+      - name: Office Hours
+        who: Elaine
+        start: 12:00 PM
+        end: 2:00 PM
+        location: RTH 3rd floor
       - name: Class
         who: Sanjay
         start: 2:00 PM
@@ -46,7 +57,13 @@ schedule:
         who: Sanjay
         start: 4:30 PM
         end: 6:30 PM
-        location: TBD 
+        location: <a href="images/RRB-Entrance.png">RRB 212</a>
   - name: Thursday
+    events:
+      - name: Office Hours
+        who: Johnny
+        start: 12:00 PM
+        end: 2:00 PM
+        location: RTH 3rd floor
   - name: Friday
 ---
