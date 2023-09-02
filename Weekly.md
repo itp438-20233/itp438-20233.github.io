@@ -73,7 +73,7 @@ Assignment 1 regrade requests **DUE** at 11:59PM
 
 ### Wednesday
 
-***Flipped Classroom***: [Live Coding - Interact System](https://youtu.be/X3OJdkHgCgo) (43:30)<br/>
+***Flipped Classroom***: Live Coding - Interact System (43:30)<br/>
 Start [Assignment 3: Interaction and More Puzzles](03.html)<br/>Assignment 2 is **DUE** at 11:59PM
 
 ### Upcoming Dates
