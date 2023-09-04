@@ -99,7 +99,14 @@ Assignment 2 regrade requests **DUE** at 11:59PM
 
 ### Wednesday
 
-***Flipped Classroom***: [Live Coding - Physics and Sequencer](https://www.youtube.com/watch?v=ZEqmo9Xyru0) (30:48)<br/>
+***Flipped Classroom***: [Live Coding - Physics and Sequencer](https://www.youtube.com/watch?v=ZEqmo9Xyru0) (30:48)<br/>**Corrections**:
+
+* With the default physics settings of the Crate_BP, you may notice it's a little tough to push onto the pressure plate. To fix this, in Crate_BP, under "Physics" check the "Mass (kg)" box which will set the mass to 100. That seems to make it be a lot easier to push around and onto the plate
+* You may notice the pressure plate flickers the puzzle output a bit when you're standing on the edge of it, but this is expected
+* Sequences are now under Cinematics>Level Sequence
+* For the keyframe at frame 60, set the z position to 0 as the ground is at 0
+* You may notice that jumping off the pressure plate when as the player may not always reset the pressure plate. This is expected, but you can try to tweak physics settings if it bothers you
+
 Start [Assignment 4: Physics Puzzles](04.html)<br/>Assignment 3 is **DUE** at 11:59PM
 
 ### Upcoming Dates
