@@ -152,7 +152,12 @@ Assignment 4 regrade requests **DUE** at 11:59PM
 
 ### Wednesday
 
-***Flipped Classroom***: [Live Coding - UMG](https://youtu.be/-Yze7kwlvlA) (34:37)<br/>
+***Flipped Classroom***: [Live Coding - UMG](https://youtu.be/-Yze7kwlvlA) (34:37)<br/>**Corrections**:
+
+* When you create HUDWidget_BP, and it asks you for the class you want to subclass, just click the "User Widget" button
+* Widgets no longer automatically start with a Canvas Panel, so you will need to add one. To add one, select "Canvas Panel" under "Panels" from the Palette and drag it onto the Hierarchy
+* In the new TopDown Template there already is a BP for the TopDownPlayerController, so you can just change that rather than needing to create a new one
+
 Start [Assignment 6: UI](06.html)<br/>Assignment 5 is **DUE** at 11:59PM
 
 ### Upcoming Dates
@@ -193,7 +198,13 @@ Assignment 5 regrade requests **DUE** at 11:59PM
 
 ### Wednesday
 
-***Flipped Classroom***: [Live Coding - Behavior Trees](https://www.youtube.com/watch?v=RfnoFN_kxns) (38:27)<br/>Start [Assignment 7: Behavior Trees](07.html)<br/>Assignment 6 is **DUE** at 11:59PM
+***Flipped Classroom***: [Live Coding - Behavior Trees](https://www.youtube.com/watch?v=RfnoFN_kxns) (38:27)<br/>**Corrections**:
+
+* The existing Top Down Character Blueprint is BP_TopDownCharacter under Content/TopDown/Blueprints
+* For the AI character, change the anim blueprint to ABP_Manny and the skeletal mesh to SKM_Manny (so it looks different than our player!)
+* When you reparent now, it seems like it now automatically fixes the AI Controller Class and Auto Possess AI properties, so you shouldn't have to change them (though check just in case)
+
+Start [Assignment 7: Behavior Trees](07.html)<br/>Assignment 6 is **DUE** at 11:59PM
 
 ### Upcoming Dates
 
