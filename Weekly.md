@@ -129,7 +129,7 @@ Assignment 3 regrade requests **DUE** at 11:59PM
 
 ### Wednesday
 
-***Flipped Classroom***: [Live Coding - Animations](https://youtu.be/BI-WNN20X6E) (30:35)<br/>
+***Flipped Classroom***: Live Coding - Animations (30:35)<br/>
 Start [Assignment 5: Dashing and Damage](05.html)<br/>Assignment 4 is **DUE** at 11:59PM
 
 ### Upcoming Dates
