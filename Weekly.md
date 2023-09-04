@@ -129,7 +129,10 @@ Assignment 3 regrade requests **DUE** at 11:59PM
 
 ### Wednesday
 
-***Flipped Classroom***: Live Coding - Animations (30:35)<br/>
+***Flipped Classroom***: [Live Coding - Animations](https://www.youtube.com/watch?v=wN-SUEirhsc) (30:01)<br/>**Corrections**:
+
+* The retargeted animations will not have `_Retargeted` at the end of them by default, so for example when you want to play `Stand_to_Crouch_Rifle_Hip_Retargeted`, it will just be `Stand_to_Crouch_Rifle_Hip`
+
 Start [Assignment 5: Dashing and Damage](05.html)<br/>Assignment 4 is **DUE** at 11:59PM
 
 ### Upcoming Dates
