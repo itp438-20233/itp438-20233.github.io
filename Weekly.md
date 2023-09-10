@@ -155,11 +155,11 @@ Assignment 4 regrade requests **DUE** at 11:59PM
 
 ### Wednesday
 
-***Flipped Classroom***: [Live Coding - UMG](https://youtu.be/-Yze7kwlvlA) (34:37)<br/>**Corrections**:
+***Flipped Classroom***: [Live Coding - UMG](https://youtu.be/juhZqqejLzo) (34:37)<br/>**Corrections**:
 
 * When you create HUDWidget_BP, and it asks you for the class you want to subclass, just click the "User Widget" button
 * Widgets no longer automatically start with a Canvas Panel, so you will need to add one. To add one, select "Canvas Panel" under "Panels" from the Palette and drag it onto the Hierarchy
-* In the new TopDown Template there already is a BP for the TopDownPlayerController, so you can just change that rather than needing to create a new one
+* "Enable Fill Animation" is already unchecked by default on Progress Bar
 
 Start [Assignment 6: UI](06.html)<br/>Assignment 5 is **DUE** at 11:59PM
 
