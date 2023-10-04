@@ -84,7 +84,7 @@ Create a StealthBoxComponent which inherits from BoxComponent in C++:
 * TopDownCharacter needs to track how many Stealth Box Components a player is in at any one time
 * In TopDownHUD (in code), you should visibly display how many stealth triggers the player is in
 
-*Hint*: For tracking, think about how we tracked the number blue triggers. For the overlapping, you may find referencing the FireComponent code.
+*Hint*: For tracking, think about how we tracked the number blue triggers. For the overlapping, you may find it helpful to reference the FireComponent code.
 
 Make a `StealthTrigger_BP` which inherits from `StaticMeshActor`:
 
