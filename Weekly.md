@@ -9,7 +9,7 @@ nav_order: 2
 
 ## Where to Get Slides / Other Materials
 
-All course materials not on the website including slides are available on the course Google Drive [here](https://drive.google.com/drive/folders/1G1BEz7IDaxbZ8TABiybcIxLZYL66omB3?usp=sharing). This drive will be updated as the semester progresses, so you should keep it favorited. For convenience, a link is included in the top toolbar on this website.
+All course materials not on the website including slides are available on the course Google Drive [here](https://drive.google.com/drive/folders/1--W2QL9GMyJUnwbgcPUX20SVJoydcuKB?usp=sharing). This drive will be updated as the semester progresses, so you should keep it favorited. For convenience, a link is included in the top toolbar on this website.
 
 ---
 
