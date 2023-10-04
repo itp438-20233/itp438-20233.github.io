@@ -98,7 +98,7 @@ Place two partially overlapping StealthTrigger_BPs in the level so that the play
   <source src="assets/Midterm2.mp4" type="video/mp4">
 </video>
 
-In your Google Drive, make a folder for `midterm` and then a `part1` sub-folder. Please submit the following:
+In your Google Drive, make a folder for `midterm` and then a `part2` sub-folder. Please submit the following:
 
 - A video demonstrating that the stealth box count on the HUD increases and decreases as expected (as in the video)
 - Your StealthBoxComponent.h/cpp files
