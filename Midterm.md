@@ -124,7 +124,7 @@ You need to update the threat level every frame. The threat level should be comp
 - If the character is currently moving ***OR*** moved within the last 0.5 seconds, the threat level should increase by one tier
 - If the character is currently crouching, the threat level should decrease by one tier
 - If the character is currently prone, the threat level should decrease by *two* tiers
-- If the character is currently inside stealth triggers, the threat level should decrease by one tier if inside one trigger ***OR*** *two* tiers if inside *two or more triggers*.
+- If the character is currently inside stealth triggers, the threat level should decrease by one tier if inside one trigger ***OR*** *two* tiers if inside *two or more* triggers.
 
 This means that, for example, if the player is just walking around their threat level would be purple (+1 threat). On the other hand, if the player were crouched and motionless inside a single stealth trigger, their threat level would be blue (-2 threat).
 
@@ -154,13 +154,13 @@ In your grading `midterm` folder make a `part3` sub-folder. Please submit the fo
     - Crouching while still, the indicator is yellow
     - Moving while crouching, and 0.5s after stopping movement, the indicator is red
     - When prone, the indicator is blue
-  - When ***IN*** ***ONE*** stealth trigger:
+  - When ***IN ONE*** stealth trigger:
     - Standing still, the indicator is yellow
     - Moving while standing, and 0.5s after stopping movement, the indicator is red
     - Crouching while still, the indicator is blue
     - Moving while crouching, and 0.5s after stopping movement, the indicator is yellow
     - When prone, the indicator is green
-  - When ***IN*** ***TWO*** stealth triggers:
+  - When ***IN TWO*** stealth triggers:
     - Standing still, the indicator is blue
     - Moving while standing, and 0.5s after stopping movement, the indicator is yellow
     - Crouching while still, the indicator is green
