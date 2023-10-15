@@ -229,7 +229,7 @@ Assignment 6 regrade requests **DUE** at 11:59PM
 
 ### Wednesday
 
-***Flipped Classroom***: [Live Coding - Networking](https://youtu.be/rf7iBDA_nhE) (50:29)<br/>
+***Flipped Classroom***: Live Coding - Networking (50:29)<br/>
 Start [Assignment 8: Networking 1](08.html)<br/>Assignment 7 is **DUE** at 11:59PM
 
 ### Upcoming Dates
@@ -252,7 +252,7 @@ Assignment 7 regrade requests **DUE** at 11:59PM
 
 ### Wednesday
 
-***Flipped Classroom***: [Live Coding - Networking, Part 2](https://youtu.be/tvNnOADCPFI) (40:10)<br/>
+***Flipped Classroom***: Live Coding - Networking, Part 2 (40:10)<br/>
 Start [Assignment 9: Networking 2](09.html)<br/>Assignment 8 is **DUE** at 11:59PM
 
 ### Upcoming Dates
@@ -275,7 +275,7 @@ Assignment 8 regrade requests **DUE** at 11:59PM
 
 ### Wednesday
 
-***Flipped Classroom***: [Live Coding - Aim Offsets](https://www.youtube.com/watch?v=3YvMg46d-RQ) (35:35)<br/>
+***Flipped Classroom***: Live Coding - Aim Offsets (35:35)<br/>
 Start [Assignment 10: Networking 3](10.html)<br/>Assignment 9 is **DUE** at 11:59PM
 
 ### Upcoming Dates
@@ -298,7 +298,7 @@ Assignment 9 regrade requests **DUE** at 11:59PM
 
 ### Wednesday
 
-***Flipped Classroom***: [Live Coding - Listen Server and Main Menu](https://youtu.be/easp8lj9X7I) (35:53)<br/>Start [Assignment 11: Steam](11.html)<br/>Assignment 10 is **DUE** at 11:59PM
+***Flipped Classroom***: Live Coding - Listen Server and Main Menu (35:53)<br/>Start [Assignment 11: Steam](11.html)<br/>Assignment 10 is **DUE** at 11:59PM
 
 ### Upcoming Dates
 
@@ -319,7 +319,7 @@ Assignment 10 regrade requests **DUE** at 11:59PM
 
 ### Wednesday
 
-***Flipped Classroom***: [Live Coding - Decal Tags](https://www.youtube.com/watch?v=Qow5fGvWpN0) (46:20)<br/>
+***Flipped Classroom***: Live Coding - Decal Tags (46:20)<br/>
 Start [Assignment 12: Tags and Save/Load](12.html)<br/>Assignment 11 is **DUE** at 11:59PM
 
 ### Upcoming Dates
