@@ -229,7 +229,7 @@ Assignment 6 regrade requests **DUE** at 11:59PM
 
 ### Wednesday
 
-***Flipped Classroom***: [Live Coding - Networking](https://youtu.be/Qi_90oaSh1k) (40:38)<br/>
+***Flipped Classroom***: [Live Coding - Networking](https://youtu.be/NCYrZy_5GOg) (40:53)<br/>
 Start [Assignment 8: Networking 1](08.html)<br/>Assignment 7 is **DUE** at 11:59PM
 
 ### Upcoming Dates
