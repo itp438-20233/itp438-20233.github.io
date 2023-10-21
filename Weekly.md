@@ -252,7 +252,10 @@ Assignment 7 regrade requests **DUE** at 11:59PM
 
 ### Wednesday
 
-***Flipped Classroom***: Live Coding - Networking, Part 2 (40:10)<br/>
+***Flipped Classroom***: [Live Coding - Networking, Part 2](https://www.youtube.com/watch?v=tvNnOADCPFI) (40:10)<br/>**Corrections**:
+
+* For setting the color for the spawn areas, you can duplicate the MI_PrototypeGrid_TopDark twice and make one MI_PrototypeGrid_Blue and one MI_PrototypeGrid_Red, setting the SurfaceColor and TopSurfaceColor parameters to the colors you want. Then use that on some of the geometry in those spawn areas
+
 Start [Assignment 9: Networking 2](09.html)<br/>Assignment 8 is **DUE** at 11:59PM
 
 ### Upcoming Dates
