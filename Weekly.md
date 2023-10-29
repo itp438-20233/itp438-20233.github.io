@@ -278,7 +278,11 @@ Assignment 8 regrade requests **DUE** at 11:59PM
 
 ### Wednesday
 
-***Flipped Classroom***: Live Coding - Aim Offsets (35:35)<br/>
+***Flipped Classroom***: [Live Coding - Aim Offsets](https://youtu.be/bZAph-2M724) (34:15)<br/>**Corrections**:
+
+* When updating the Horizontal/Vertical axis in the aim offset asset, also check "Snap to Grid" as it makes it easier to place the aim offset animations where you want to.
+* Use Ctrl+Click to drag the preview point in the aim offset, not Shift+Click
+
 Start [Assignment 10: Networking 3](10.html)<br/>Assignment 9 is **DUE** at 11:59PM
 
 ### Upcoming Dates
