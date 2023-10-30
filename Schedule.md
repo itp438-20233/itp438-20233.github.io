@@ -174,7 +174,7 @@ nav_order: 1
         <tr>
             <td rowspan='2' style='text-align: center'>15</td>
             <td style='text-align: center'>11/27</td>
-            <td>Guest Lecture</td>
+            <td>Guest Lecture: Nanite, Lumen, and Advanced Unreal Graphics<br/>Yuan Xiao (Naughty Dog)</td>
             <td></td>
         </tr>
         <tr>
