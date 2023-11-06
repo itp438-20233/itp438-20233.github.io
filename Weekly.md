@@ -305,7 +305,7 @@ Assignment 9 regrade requests **DUE** at 11:59PM
 
 ### Wednesday
 
-***Flipped Classroom***: Live Coding - Listen Server and Main Menu (35:53)<br/>Start [Assignment 11: Steam](11.html)<br/>Assignment 10 is **DUE** at 11:59PM
+***Flipped Classroom***: [Live Coding - Listen Server and Main Menu](https://youtu.be/h6yqIuBkCfY) (31:31)<br/>Start [Assignment 11: Steam](11.html)<br/>Assignment 10 is **DUE** at 11:59PM
 
 ### Upcoming Dates
 
