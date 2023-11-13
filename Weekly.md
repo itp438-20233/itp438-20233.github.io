@@ -326,8 +326,7 @@ Assignment 10 regrade requests **DUE** at 11:59PM
 
 ### Wednesday
 
-***Flipped Classroom***: Live Coding - Decal Tags (46:20)<br/>
-Start [Assignment 12: Tags and Save/Load](12.html)<br/>Assignment 11 is **DUE** at 11:59PM
+***Flipped Classroom***: [Live Coding - Decal Tags](https://youtu.be/7TU10-Q8CGo) (46:20)<br/>Start [Assignment 12: Tags and Save/Load](12.html)<br/>Assignment 11 is **DUE** at 11:59PM
 
 ### Upcoming Dates
 
